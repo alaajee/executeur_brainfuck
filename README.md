@@ -5,5 +5,4 @@ Un interpréteur Brainfuck simple et efficace permettant d'exécuter des program
 ## 🚀 Fonctionnalités  
 - Lecture et exécution de fichiers Brainfuck (`.bf`).  
 - Support des huit instructions standard (`+, -, <, >, [, ], ., ,`).  
-- Gestion dynamique de la mémoire.  
 
